@@ -1,0 +1,47 @@
+11:47:48.468 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:47:48.468 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:47:48.468 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+3+4.
+11:48:50.723 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:48:50.723 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:48:50.723 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+3+4.
+11:50:27.132 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+11:50:27.132 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+11:50:27.132 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+3+4.
+11:50:27.132 [main] DEBUG dev.service.CalculService - 1
+11:50:27.132 [main] DEBUG dev.service.CalculService - 3
+11:50:27.132 [main] DEBUG dev.service.CalculService - 4
+11:50:27.148 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+12:04:08.850 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:04:08.850 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:04:08.850 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+3+4.
+12:04:08.850 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+12:04:08.866 [main] INFO  dev.service.CalculServiceTest - Essai d'envoyer des argument impossibles
+12:04:08.866 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+2+test.
+12:14:00.626 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:14:00.642 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:14:00.642 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+3+4.
+12:14:00.830 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+12:14:00.830 [main] INFO  dev.service.CalculServiceTest - Essai d'envoyer des argument impossibles
+12:14:00.830 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+2+test.
+12:21:35.070 [main] INFO  dev.service.CalculServiceTest - Etant donné, une instance de la classe CalculService
+12:21:35.070 [main] INFO  dev.service.CalculServiceTest - Lorsque j'évalue l'addition de l'expression 1+3+4
+12:21:35.070 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+3+4.
+12:21:35.132 [main] INFO  dev.service.CalculServiceTest - Alors j'obtiens le résultat 8
+12:21:35.195 [main] INFO  dev.service.CalculServiceTest - Essai d'envoyer des argument impossibles
+12:21:35.195 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+2+test.
+15:05:58.051 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34.
+15:05:58.254 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34hkjlh.
+15:06:38.421 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34.
+15:06:38.577 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34hkjlh.
+15:07:54.975 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34.
+15:07:55.131 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34hkjlh.
+15:21:08.860 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34.
+15:21:09.063 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34hkjlh.
+15:21:09.063 [main] DEBUG dev.service.CalculService - Evaluation de l'expression fin.
+15:22:11.418 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34.
+15:22:11.605 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+34hkjlh.
+15:22:11.605 [main] DEBUG dev.service.CalculService - Evaluation de l'expression fin.
+15:22:37.336 [main] DEBUG dev.service.CalculService - Evaluation de l'expression fin.
+16:21:54.885 [main] DEBUG dev.service.CalculService - Evaluation de l'expression .
+16:22:55.570 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+2.
+16:23:40.219 [main] DEBUG dev.service.CalculService - Evaluation de l'expression 1+2.
